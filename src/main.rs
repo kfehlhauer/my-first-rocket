@@ -18,7 +18,7 @@ struct Data<'r> {
     id: u32,
     value: Cow<'r, str>,
 }
-// Comment this section out to play with the other Data struct
+// Remove the comment this section out to play with the other Data struct and comment out the one above.
 // struct Data {
 //     id: u32,
 //     value: String,
