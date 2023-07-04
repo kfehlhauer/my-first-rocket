@@ -1,0 +1,7 @@
+PUT http://127.0.0.1:8000/update HTTP/1.1
+content-type: application/json
+
+{
+    "id": 1,
+    "data": "UPDATED DATA"
+}
